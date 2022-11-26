@@ -1,0 +1,23 @@
+.color {
+    width: 500px;
+    height: 250px;
+    padding: 50px;
+    border-radius: 5px;
+  }
+  
+  .wrap {
+    transform: translate(300px, 150px);
+
+    width: 500px;
+    height: 380px;
+    padding: 30px;
+  }
+  
+  #select {
+    transform: translate(-50px, -50px);
+  }
+  
+  h1 {
+    color: red;
+    text-align: center;
+  }
